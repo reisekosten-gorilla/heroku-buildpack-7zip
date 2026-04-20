@@ -6,4 +6,4 @@ Build pack enable you to use 7zip utilities in programs and scripts.
 
 ## Version
 
-- Build pack is using 7zip version 24.09
+- Build pack is using 7zip version 26.00
